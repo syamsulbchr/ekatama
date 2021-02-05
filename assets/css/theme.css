@@ -2781,7 +2781,7 @@ textarea.form-control-lg {
   font-weight: 400;
   line-height: 1.5;
   color: #4B5D68;
-  vertical-align: middle;
+
   background-color: #fff;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%234B5D68' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
@@ -17962,43 +17962,3 @@ label {
 -----------------------------------------------*/
 
 /*# sourceMappingURL=theme.css.map */
-body{
-  background-color: #ffffff;
-}
-.contact{
-  padding: 4%;
-  height: 400px;
-}
-.col-md-3{
-  background: #ae64eb;
-  padding: 4%;
-  border-top-left-radius: 0.5rem;
-  border-bottom-left-radius: 0.5rem;
-}
-.contact-info{
-  margin-top:10%;
-}
-.contact-info img{
-  margin-bottom: 15%;
-}
-.contact-info h2{
-  margin-bottom: 10%;
-}
-.col-md-9{
-  background: #fff;
-  padding: 3%;
-  border-top-right-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
-}
-.contact-form label{
-  font-weight:600;
-}
-.contact-form button{
-  background: #25274d;
-  color: #fff;
-  font-weight: 600;
-  width: 25%;
-}
-.contact-form button:focus{
-  box-shadow:none;
-}
